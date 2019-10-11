@@ -1,0 +1,36 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+ 
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.home>*{
+    color:white !important;
+}
+.myClass{
+  position: absolute;
+  right: 0;
+  left: auto;
+}
+/*
+Paleta de colores utilizada en semaforo
+  #20252B
+  #272B36
+  #3D4255
+  #2676A9
+*/
+
+
